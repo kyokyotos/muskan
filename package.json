@@ -5,5 +5,8 @@
     "canvas-confetti": "^1.9.3",
     "react-router-dom": "^7.1.1",
     "styled-components": "^6.1.14"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
